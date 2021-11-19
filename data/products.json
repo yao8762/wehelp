@@ -1,14 +1,18 @@
 [
-  {
-    "name":"Google pinxl 4",
-    "price":27700
-  },
-  {
-    "name":"Pixel Chromebook",
-    "price":12000
-  },
-  {
-    "name":"Chromecast",
-    "price":1440
-  }
+    {
+      "name":"hahow",
+      "address":"https://hahow.in/"
+    },
+    {
+      "name":"Udemy",
+      "address":"https://www.udemy.com/zh-tw/"
+    },
+    {
+      "name":"coursera",
+      "address":"https://www.coursera.org/"
+    },
+    {
+        "name":"datacamp",
+        "address":"https://app.datacamp.com/"
+      }
 ]
